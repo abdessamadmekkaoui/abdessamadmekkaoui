@@ -25,13 +25,14 @@
 <a href="https://www.hackerrank.com/profile/mekkaoui_abdess1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mekkaoui_abdess1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24089777/abd-essamad-mekkaoui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="abd-essamad-mekkaoui" height="30" width="40" /></a>
 <a href="mailto:mekkaoui.abdessamad0@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mekkaoui.abdessamad0@gmail.com" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/en/profile/23187500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sololearn.svg" alt="23187500" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Excellent-Regular-65/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Excellent-Regular-65" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/MEKKAOUI2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="MEKKAOUI2001" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/portfolio/mekkaouiabdessamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="mekkaouiabdessamad" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~014e932f2bc85904d0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="014e932f2bc85904d0" height="30" width="40" /></a>
 <a href="https://khamsat.com/user/mekkaoui_abdessamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/simpleicons.svg" alt="mekkaoui_abdessamad" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
