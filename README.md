@@ -73,9 +73,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessamad-mekkaoui&show_icons=true&locale=en&layout=compact" alt="abdessamad-mekkaoui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessamadmekkaoui&show_icons=true&locale=en&layout=compact" alt="mekkaoui-abdessamad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamad-mekkaoui&show_icons=true&locale=en" alt="abdessamad-mekkaoui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadmekkaoui&show_icons=true&locale=en" alt="mekkaoui-abdessamad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamad-mekkaoui&" alt="abdessamad-mekkaoui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamadmekkaoui&" alt="mekkaoui-abdessamad" /></p>
+
 
