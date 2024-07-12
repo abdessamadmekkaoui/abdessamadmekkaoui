@@ -20,16 +20,39 @@
 <a href="https://www.linkedin.com/in/abdessamad-mekkaoui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100041103906011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="your-profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mekkaoui_abdessamad_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-profile" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abdessamadmekkaoui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="abdessamadmekkaoui" height="30" width="40" /></a>
-<a href="https://app.daily.dev/mekkaoui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mekkaoui" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mekkaoui_abdess1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mekkaoui_abdess1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24089777/abd-essamad-mekkaoui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="abd-essamad-mekkaoui" height="30" width="40" /></a>
-<a href="mailto:mekkaoui.abdessamad0@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mekkaoui.abdessamad0@gmail.com" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Excellent-Regular-65/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Excellent-Regular-65" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/MEKKAOUI2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="MEKKAOUI2001" height="30" width="40" /></a>
-<a href="https://www.datacamp.com/portfolio/mekkaouiabdessamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="mekkaouiabdessamad" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~014e932f2bc85904d0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="014e932f2bc85904d0" height="30" width="40" /></a>
-<a href="https://khamsat.com/user/mekkaoui_abdessamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/simpleicons.svg" alt="mekkaoui_abdessamad" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/abdessamadmekkaoui" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://app.daily.dev/mekkaoui" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/daily.dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="daily.dev" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/mekkaoui_abdess1" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href="https://stackoverflow.com/users/24089777/abd-essamad-mekkaoui" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="mailto:mekkaoui.abdessamad0@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.sololearn.com/en/profile/23187500" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/SoloLearn-3A76F0?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn" />
+    </a>
+    <a href="https://www.reddit.com/user/Excellent-Regular-65/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    </a>
+    <a href="https://leetcode.com/u/MEKKAOUI2001/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://www.datacamp.com/portfolio/mekkaouiabdessamad" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/DataCamp-51D2B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~014e932f2bc85904d0" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    </a>
+    <a href="https://khamsat.com/user/mekkaoui_abdessamad" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Khamsat-FFBB00?style=for-the-badge&logo=khamsat&logoColor=white" alt="Khamsat" />
+    </a>
 </p>
 
 
