@@ -114,11 +114,11 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekkaoui-abdessamad&show_icons=true&locale=en&layout=compact" alt="mekkaoui-abdessamad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessamadmekkaoui&show_icons=true&locale=en&layout=compact" alt="mekkaoui-abdessamad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekkaoui-abdessamad&show_icons=true&locale=en" alt="mekkaoui-abdessamad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadmekkaoui&show_icons=true&locale=en" alt="mekkaoui-abdessamad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekkaoui-abdessamad&" alt="mekkaoui-abdessamad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamadmekkaoui&" alt="mekkaoui-abdessamad" /></p>
 
 <!-- Add more sections as needed -->
 </div>
